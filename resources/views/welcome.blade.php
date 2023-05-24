@@ -4,7 +4,7 @@
 @section('contenido')
     <div class="card">
         <div class="card-header">
-            Primer CRUD con Lraravel 8
+            Primer CRUD con Laravel 8
         </div>
         <div class="card-body">
             <h5 class="card-title" style="text-align: center;" >Personas</h5>

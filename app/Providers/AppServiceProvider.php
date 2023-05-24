@@ -24,7 +24,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        // se agrega esta linea para poder utilizar el paginator de laravel con bootstrap
         Paginator::useBootstrap();
 
     }
